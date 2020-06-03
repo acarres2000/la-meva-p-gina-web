@@ -1,0 +1,11 @@
+.borde{
+border: 1px solid black;
+heigt: 50px;
+text-align: center;
+}
+.slider {
+  height: 90vh;
+}
+.p{
+	text-align: left;
+}
